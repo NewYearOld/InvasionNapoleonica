@@ -15,6 +15,9 @@ width: 70px;
 margin: 8px auto;
 }
 
+.profile {
+    border-radius: 50%;
+}
 h2{
     bottom: 0;
 background: #e8e8e8;
