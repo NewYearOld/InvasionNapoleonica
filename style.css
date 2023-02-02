@@ -4,10 +4,6 @@ body{
     text-align: center;
 }
 
-h2{
-    text-align: center;
-}
-
 .line{
 height: 6px;
 background-color: #000;
@@ -21,6 +17,7 @@ margin: 8px auto;
 h2{
     bottom: 0;
     background: linear-gradient(#60ebeb 0%, #27ae60);
+    text-align: center;
 }
 
 .menu{
