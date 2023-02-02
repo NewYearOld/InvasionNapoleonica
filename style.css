@@ -33,7 +33,7 @@ background: linear-gradient(#60ebeb 0%, #27ae60);
 .menu li a{
     text-decoration: none;
     color: white;
-    padding: 20px;
+    padding: 10px;
     display: block;
 }
 
