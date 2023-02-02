@@ -1,6 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background: #e8e8e8;
+    background: linear-gradient(#60ebeb 0%, #27ae60);
     text-align: center;
 }
 
@@ -17,7 +17,7 @@ margin: 8px auto;
 
 h2{
     bottom: 0;
-background: linear-gradient(#60ebeb 0%, #27ae60);
+background: #e8e8e8;
 }
 
 .menu{
